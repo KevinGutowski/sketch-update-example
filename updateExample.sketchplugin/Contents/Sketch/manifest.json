@@ -1,0 +1,27 @@
+{
+  "author" : "Kevin Gutowski",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "updateExample",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "updateExample",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ],
+    "isRoot": true
+  },
+  "identifier" : "com.kevingutowski.update.example",
+  "version" : "1.0.0",
+  "description" : "An example plugin to showcase how to setup plugin updates.",
+  "homepage" : "https://github.com/bomberstudios/sketch-update-example",
+  "authorEmail" : "kskiviolin@gmail.com",
+  "name" : "updateExample",
+  "appcast": "https://raw.githubusercontent.com/kevingutowski/sketch-update-example/master/appcast.xml"
+}
