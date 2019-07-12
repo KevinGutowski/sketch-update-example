@@ -2,5 +2,5 @@ var onRun = function(context) {
     let sketch = require('sketch')
     let UI = sketch.UI
 
-    UI.message("Hello World")
+    UI.message("Hello There")
 };
