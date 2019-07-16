@@ -18,7 +18,7 @@
     "isRoot": true
   },
   "identifier" : "com.kevingutowski.update.example",
-  "version" : "1.0.2",
+  "version" : "1.0.3",
   "description" : "An example plugin to showcase how to setup plugin updates.",
   "homepage" : "https://github.com/KevinGutowski/sketch-update-example",
   "authorEmail" : "kskiviolin@gmail.com",
